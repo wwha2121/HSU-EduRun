@@ -79,7 +79,7 @@ node.js의 구조(contoller,model,service,
 
 
 ## Team Members
-
+전성주,준영,최유진,김건호
 ## License
 
 ## GitHub Repository	
