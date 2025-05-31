@@ -1,13 +1,10 @@
 # HSU-EduRun
 
 ## Contents
-
 - [Project Overview](#project-overview)
-- [Features](#features)
 - [Screenshots / Demo](#screenshots--demo)
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [API Reference](#api-reference)
 - [Deployment](#deployment)
@@ -16,7 +13,6 @@
 - [Future Improvements](#future-improvements)
 - [Team Members](#team-members)
 - [License](#license)
-
 ## Overview
 
 최근 게임 산업에서는 교육적 요소를 접목한 게임들이 주목받고 있습니다. 기존의 학습 방법보다 흥미를 유발하고 몰입도를 높일 수 있기 때문입니다. 본 프로젝트는 이러한 트렌드에 맞춰 재미와 학습을 동시에 제공하는 게임을 개발하고자 합니다.
