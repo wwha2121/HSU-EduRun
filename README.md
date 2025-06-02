@@ -83,6 +83,6 @@ node.js의 구조(contoller,model,service,
 ## License
 
 ## GitHub Repository	
-https://github.com/wwha2121/eduRun
-
+backend: https://github.com/wwha2121/eduRun
+client : https://github.com/junuyng/EduRun2025
 ## Demo Video
