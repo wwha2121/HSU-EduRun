@@ -86,3 +86,4 @@ node.js의 구조(contoller,model,service,
 backend: https://github.com/wwha2121/eduRun
 client : https://github.com/junuyng/EduRun2025
 ## Demo Video
+https://www.youtube.com/watch?v=ZNs3QaTjr_M
